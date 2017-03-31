@@ -5,7 +5,7 @@ using System.Web.Mvc;
 
 namespace KnockoutV1.Controllers
 {
-    [Authorize]
+    //[Authorize]
     public class HomeController : Controller
     {
         public ActionResult Index()

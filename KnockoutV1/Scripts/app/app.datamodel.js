@@ -9,7 +9,7 @@
     // Other private operations
 
     // Operations
-
+    
     // Data
     self.returnUrl = self.siteUrl;
 
